@@ -8,7 +8,7 @@ video 2:https://www.youtube.com/watch?v=vvimBPJ3XGQ
 ALso Install these libraries too.  
 
 + pip install pipwin 
-+ +pipwin install pyaudio . Tis is not pip its pipwin. so install these in the order given
++ pipwin install pyaudio . Tis is not pip its pipwin. so install these in the order given
 + pip install pyttsx3 
-+ +pip install speechRecognition 
-+ +pip install wikipedia
++ pip install speechRecognition 
++ pip install wikipedia
